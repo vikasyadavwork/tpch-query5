@@ -12,6 +12,7 @@
 // TODO: Include additional headers as needed
 
 int main(int argc, char* argv[]) {
+
     std::string r_name, start_date, end_date, table_path, result_path;
     int num_threads;
 
